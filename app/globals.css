@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bgPrimary: #060B18;
+  --color-bgSecondary: #111C3A;
+  --color-accentCyan: #00F2FE;
+  --color-accentBlue: #0052D4;
+  --color-accentGold: #F2C94C;
+  --color-textMain: #F8F9FA;
+}
+
+body {
+  background-color: var(--color-bgPrimary);
+  color: var(--color-textMain);
+  font-family: system-ui, -apple-system, sans-serif;
+  margin: 0;
+  padding: 0;
+}

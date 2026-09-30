@@ -338,7 +338,7 @@ export const fasilbModules: FasilbModule[] = [
   {
     id: 'stacks',
     title: 'Stacks (Bitcoin L2)',
-    description: 'Apprenez à écrire des smart contracts Clarity pour amérer la DeFi et les NFTs sur Bitcoin.',
+    description: 'Apprenez à écrire des smart contracts Clarity pour amener la DeFi et les NFTs sur Bitcoin.',
     category: 'Blockchain',
     icon: 'Box',
     lessonsCount: 12,
